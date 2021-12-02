@@ -1,12 +1,7 @@
 <div id="top"></div>
 <br />
 
-<h3 align="center">PyChain Ledger</h3>
-
-  <p align="center">
-PyChain ledger is a blockchain-based ledger with a user friendly web interface. 
-    <a href="https://github.com/jtengsico/18-Blockchain-With-Python.git">View Demo</a>
-  </p>
+<h3 align="center">Housing Rental Analysis for San Francisco</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -16,7 +11,6 @@ PyChain ledger is a blockchain-based ledger with a user friendly web interface.
     <li><a href="#about-the-project">About The Project</a>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#installation">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -24,46 +18,29 @@ PyChain ledger is a blockchain-based ledger with a user friendly web interface.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-T
+An analysis on the housing rental market in San Francisco uses data visualizations. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 * python 3.7 
-* streamlit 0.84.2
-* datetime 4.3
 * pandas 1.2.5
+*matplotlib
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Installation -->
-### Installation 
+### Installation
 
 To setup this program on your desktop, please clone the repo.
-After cloning the repo, go .
-
-The machine learning model was run using Google Colab. 
-A saved LSTM and CNN model is saved in json and you can use those models so you won't have to import the ipynb file to Google Colab to re-run the model. 
 
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/jtengsico/06-Data-Visualization-with-PyViz.git
    ```
-2. Install required python packages listed in the ipynb file. 
-   ```sh
-   use conda or pip install
-   ```
+2. Install required python packages listed in the Built With section. 
 3. Run the file in jupyter lab/notebook
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- Sample Data -->
-## Sample Data
-SVM Model is shown below. 
-![svm_fear.greed.png](images/svm_fear.greed.png)
-![fear_and_greed.png](images/fear_and_greed.png)  
-![svm_plot.png](images/svm_plot.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
